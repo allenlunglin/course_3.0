@@ -2,7 +2,8 @@
 
 ### Part 2 機器學習概論 & Linear Regression
 #### Chapter1 機器學習概論
-1. 🔥Step1 - 定義問題 :Scikit Learn 提供的數據庫 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TA-aiacademy/course_3.0/blob/ML/02_ML/part2/Chapter1/Load_dataset_from_Scikit_Learn_Example.ipynb)
+1. 🔥Step1 - 定義問題 :Scikit Learn 提供的數據庫 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/allenlunglin
+/course_3.0/blob/ML/02_ML/part2/Chapter1/Load_dataset_from_Scikit_Learn_Example.ipynb)
 2. 🔥Step 1 - 定義問題 : 虛擬樣本的生成虛擬樣本的生成 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TA-aiacademy/course_3.0/blob/ML/02_ML/part2/Chapter1/create_dataset_through_Scikit_Learn_Example.ipynb)
 3. 🔥Step 2 - 蒐集, 清理資料 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TA-aiacademy/course_3.0/blob/ML/02_ML/part2/Chapter1/Training_and_Testing_Data_Split_Example.ipynb)
 4. 🔥Normalization1 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TA-aiacademy/course_3.0/blob/ML/02_ML/part2/Chapter1/Data_Normalization_Example.ipynb)
